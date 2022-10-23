@@ -32,7 +32,7 @@ body {
 @media (max-width: 991.98px) {
     .offcanvas-collapse {
         position: fixed;
-        top: 85px;
+        top: 86px;
         bottom: 0;
         left: 97%;
         width: 94%;
@@ -53,11 +53,11 @@ body {
     }
 
     .name h2 {
-        font-size: 38px !important;
+        font-size: 31px !important;
     }
 
     .jobs h2 {
-        font-size: 33px !important;
+        font-size: 24px !important;
     }
 
     .caption-1 {
@@ -67,7 +67,6 @@ body {
 
     .caption2 {
         margin-top: -40px;
-        height: 50vh;
     }
 
     .caption2 h3 {
@@ -77,15 +76,14 @@ body {
     }
 
     .typing-text {
-        font-size: 22px;
+        font-size: 18px;
         margin-right: 7px !important;
-        margin-top: 2px !important;
     }
 
     .img-pic {
         height: 400px !important;
         object-fit: cover;
-        margin-right: 98px !important;
+        margin-right: 50px !important;
         overflow-y: hidden;
     }
 }
