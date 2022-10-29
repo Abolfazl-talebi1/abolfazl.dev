@@ -1,4 +1,9 @@
 "use strict";
+alert(
+  "یلام به وب سایت بنده خوش آمدید صفحه اینستاگرام بنده را به آدرس:Abolfazltalebi.wp دنبال کنید .ممنون"
+);
+let online = navigator.online();
+console.log(online);
 (() => {
   document
     .querySelector("#navbarSideCollapse")
