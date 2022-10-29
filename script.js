@@ -1,7 +1,5 @@
 "use strict";
-alert(
-  "سلام به وب سایت بنده خوش آمدید صفحه اینستاگرام بنده را به آدرس:Abolfazltalebi.wp دنبال کنید .ممنون"
-);
+
 (() => {
   document
     .querySelector("#navbarSideCollapse")
@@ -30,3 +28,6 @@ for (let el of tabLinks) {
 }
 let online = navigator.online();
 console.log(online);
+alert(
+  "سلام به وب سایت بنده خوش آمدید صفحه اینستاگرام بنده را به آدرس:Abolfazltalebi.wp دنبال کنید .ممنون"
+);
