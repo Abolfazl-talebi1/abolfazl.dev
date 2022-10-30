@@ -26,8 +26,4 @@ for (let el of tabLinks) {
     panel[0].classList.add("active");
   });
 }
-let online = navigator.online();
-console.log(online);
-alert(
-  "سلام به وب سایت بنده خوش آمدید صفحه اینستاگرام بنده را به آدرس:Abolfazltalebi.wp دنبال کنید .ممنون"
-);
+
